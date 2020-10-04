@@ -1,3 +1,5 @@
+## COVID-19 WEB PORTAL 
+> Made using JavaScript, HTML, CSS. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
